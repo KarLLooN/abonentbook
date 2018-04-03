@@ -1,4 +1,4 @@
-package main;
+package abonentbook;
 
 public class Abonent {
     private String name;

@@ -1,4 +1,4 @@
-package main;
+package abonentbook;
 
 public class Main {
     public static void main(String[] args) {
