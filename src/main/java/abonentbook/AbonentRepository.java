@@ -4,18 +4,11 @@ import java.util.List;
 
 public interface AbonentRepository {
 
-    static Abonent findById() {
-        return null;
-    }
+    Abonent findById();
 
-    static void deliteById() {
-    }
+    void deliteById();
 
-    static Abonent create() {
-        return null;
-    }
+    Abonent create();
 
-    static Abonent update() {
-        return null;
-    }
+    Abonent update();
 }
